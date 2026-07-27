@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "brand": "Skoda",
+    "model": "Octavia Tour",
+    "years": "1996-2010",
+    "key_type": "Викидний ключ",
+    "buttons": 3,
+    "chip": "Megamos ID48",
+    "frequency": "433 MHz",
+    "blade": "HU66",
+    "remote_board": "OEM",
+    "notes": "VAG система іммобілайзера"
+  },
+  {
+    "id": 2,
+    "brand": "Volkswagen",
+    "model": "Golf 4",
+    "years": "1997-2006",
+    "key_type": "Викидний ключ",
+    "buttons": 3,
+    "chip": "Megamos ID48",
+    "frequency": "433 MHz",
+    "blade": "HU66",
+    "remote_board": "OEM",
+    "notes": "Поширений VAG ключ"
+  },
+  {
+    "id": 3,
+    "brand": "Kia",
+    "model": "Ceed",
+    "years": "2006-2012",
+    "key_type": "Корпус 2 кнопки",
+    "buttons": 2,
+    "chip": "ID46",
+    "frequency": "433 MHz",
+    "blade": "HY22",
+    "remote_board": "OEM",
+    "notes": "Популярний ключ для ремонту"
+  }
+]
